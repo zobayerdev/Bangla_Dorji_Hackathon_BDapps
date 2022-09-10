@@ -8,7 +8,7 @@
 
 
 # Download
-[Download Now](https://github.com/zobayerdev/Bangla_Dorji_Hackathon_BDapps.git)
+[Download Now](https://codeload.github.com/zobayerdev/Bangla_Dorji_Hackathon_BDapps/zip/refs/heads/main)
 
 # Contributing
 Your contributions are always welcome!
