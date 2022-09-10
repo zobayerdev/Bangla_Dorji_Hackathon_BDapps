@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/drawable/bg.xml" value="0.177" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/activity_clothing.xml" value="0.22" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/activity_dashboard.xml" value="0.22" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/activity_forgotpass.xml" value="0.25" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/activity_men.xml" value="0.25" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/activity_mtshirt.xml" value="0.25" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/activity_order.xml" value="0.209375" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/activity_register_avtivity.xml" value="0.2" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/activity_tcart_avtivity.xml" value="0.25" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/activity_women.xml" value="0.209375" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/cart_layout.xml" value="0.22" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/drop_down_list.xml" value="0.209375" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/item_add.xml" value="0.209375" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/item_email.xml" value="0.209375" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/item_image.xml" value="0.209375" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/item_info.xml" value="0.209375" />
+        <entry key="..\:/GItHub/BanglarDorji/app/src/main/res/layout/sample_layout.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,41 @@
+###   User Application  ###
+
+1. Splash Screen
+2. Login
+3. Signup
+4. Home (Men & Women)
+5. For Men
+    1. Shirt
+    2. Pant
+    3. Kurta
+    4. Panjabi
+    5. T-shirt
+
+6. For Women
+    1. Shirt
+    2. Pant
+    3. saloyar
+    4. Kamiz
+    5. T-shirt
+
+7. Order Section 
+
+
+# Login
+If any user login his account, then they fill up two option first of all E-mail and Password. Then he access his dashboard.
+
+# Signup
+Every user first of all sign up for this application access. They fill up some data to access here. We will provide 
+the data section example Name, E-mail, Password, Area or city, Gender. 
+
+# Home
+Every user see two Option Men and Women. They can order any type of dress.
+
+# Men Section
+Every men order his any type of dress these his needs. The men can order Shirts, Pants, Panjabi, Kurta, T-shirts. Its a custom shop then he order his full fit size.
+
+# Women Section
+Every women order his any type of dress these his needs. The men can order Shirts, Pants, Panjabi, Kurta, T-shirts. Its a custom shop then he order his full fit size.
+
+# Order Section 
+Every person see their order. 

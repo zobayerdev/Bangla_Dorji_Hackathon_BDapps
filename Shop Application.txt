@@ -1,0 +1,15 @@
+Shop 
+
+1. Show all Order
+2. Cnfiremed Order section
+3. Admin Contact
+
+1. Show
+The Shop keepers saw all order from our application.
+
+Confiremed Order Section
+The Shop Keepers can order, when they can do to complete of fullfill our requirement.
+
+Admin contact
+The shop keepers can contact admin to complete the order and he can send their cloths our admin section.
+

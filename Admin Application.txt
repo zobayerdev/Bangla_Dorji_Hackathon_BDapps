@@ -1,0 +1,27 @@
+Admin Application
+
+1. Show Customer List
+2. Show Order list
+3. Show Shop List
+4. Add Product Sction
+5. Delete Product Section
+6. Send Customer Confirmation SMS
+7. Send Order to Shop with tag
+
+# Shop Customer List
+Admin can see all of user who register our application. Admin can remove any user because, this user occurs any problem the admin can remove this person.
+
+#Show Order List
+Admin can see all order list. They can call the user to confirm order.
+
+#Show shop List.
+Admin can see all shop who register our application. Admin can remove any user, when they can't work with us.
+
+#Add Product Section
+Shop send his cloths and admin can verify this cloths, then admin can add our product list.
+
+#Delete Product Section
+we can delete any kind of product list
+
+# Send order to shop with tag
+admin send order to shopkeeprs with tag. This tag maintain to order system.
