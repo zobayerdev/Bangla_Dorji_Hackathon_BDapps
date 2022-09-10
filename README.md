@@ -19,4 +19,4 @@ BUBT - [Md. Zobayer Hasan Nayem](https://github.com/zobayerdev/)
 # Contact
 [![forthebadge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=zobayer.dev@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/74914169/189492056-6313c200-3c3c-4154-9048-9bd99ec55c03.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/74914169/189492056-6313c200-3c3c-4154-9048-9bd99ec55c03.png" width=30% height=30%>
